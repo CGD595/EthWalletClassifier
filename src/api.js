@@ -1,4 +1,4 @@
-export const API = "http://103.133.217.77:5000";
+export const API = "https://local-object-minute-stem.trycloudflare.com";
 
 export const DEMO_WALLETS = {
   "0xea674fdde714fd979de3edf0f56aa9716b898ec8": {
